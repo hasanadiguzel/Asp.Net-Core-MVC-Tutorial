@@ -1,0 +1,584 @@
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.exe
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.deps.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.dev.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.Views.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.csprojAssemblyReference.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.Manifest.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.xml
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfoInputs.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.input.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.output.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.RazorCoreGenerate.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\ETicaret.csproj.CopyComplete
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Create.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Delete.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Details.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Edit.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaret\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Index.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.exe
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.deps.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.dev.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.Views.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.csprojAssemblyReference.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.Manifest.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.xml
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfoInputs.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.input.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.output.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.RazorCoreGenerate.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Create.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Delete.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Details.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Edit.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Index.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.csproj.CopyComplete
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite\obj\Debug\netcoreapp3.0\ETicaret.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.exe
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.deps.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.dev.json
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.Views.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.csprojAssemblyReference.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.Manifest.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.xml
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfoInputs.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.input.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.output.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorCoreGenerate.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Create.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Delete.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Details.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Edit.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Index.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cache
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cs
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.csproj.CopyComplete
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\erkan\source\repos\2019\Guz\Programlama II\A\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.pdb
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.exe
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.deps.json
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.json
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.runtimeconfig.dev.json
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.pdb
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.Views.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.csprojAssemblyReference.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.Manifest.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\staticwebassets\ETicaret.StaticWebAssets.xml
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorAssemblyInfo.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfoInputs.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.AssemblyInfo.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.input.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.TagHelpers.output.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorCoreGenerate.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Create.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Delete.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Details.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Edit.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\UrunIslemleri\Index.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cache
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.RazorTargetAssemblyInfo.cs
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.Views.pdb
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.csproj.CopyComplete
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.dll
+C:\Users\Betül\Desktop\Ankara Üniversitesi\Programlama 2\Derste Yapılan Projeler\8_27.11.2019_ETicaret_FileUpload\ETicaretSQLite_DataAnnotations\obj\Debug\netcoreapp3.0\ETicaret.pdb

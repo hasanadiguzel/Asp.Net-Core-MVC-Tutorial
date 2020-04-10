@@ -1,0 +1,72 @@
+@model CRUD_VirtualDb.Models.Musteri
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Musteri</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Adi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Soyadi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Soyadi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adresi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Adresi)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="button" value="Delete" class="btn btn-danger" data-toggle="modal" data-target="#Teyit"/> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+
+<!-- The Modal -->
+  <div class="modal" id="Teyit">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Teyit</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          İlgili müşteriyi silmek istediğinize emin misiniz?
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+            <form asp-action="Delete">
+                <button type="button" data-dismiss="modal" class="btn btn-dark">Cancel</button> |
+                <input type="submit" value="Delete" class="btn btn-danger" /> 
+            </form>
+        </div>
+        
+      </div>
+    </div>
+  </div>

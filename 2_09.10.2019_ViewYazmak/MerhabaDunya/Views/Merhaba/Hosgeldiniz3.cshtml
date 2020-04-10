@@ -1,0 +1,24 @@
+
+<ul>
+    @foreach (var isim in ViewBag.x)
+    {
+        <li>@isim</li>
+    }
+</ul>
+
+<ol>
+    @foreach (var isim in ViewBag.x)
+    {
+        <li>@isim</li>
+    }
+</ol>
+
+
+<table class="table table-hover">
+    @foreach (var isim in ViewBag.x)
+    {
+        <tr>
+            <td><button type="button" class="btn btn-danger" style="width: 100px;">@isim</button></td>
+        </tr>
+    }
+</table>
